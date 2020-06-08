@@ -1,4 +1,3 @@
-# CPE 315 
 ## ARM Thumb Simulator
 
 In this project, the Thumb instruction set is simulated. The simulator can be used
