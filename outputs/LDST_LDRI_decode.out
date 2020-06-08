@@ -1,0 +1,5 @@
+Starting at PC 10400
+push {lr}
+mov r1, sp
+ldr r0, [r1, #0]
+pop {pc}

@@ -1,0 +1,9 @@
+Starting at PC 10400
+push {lr}
+movs r0, #10
+movs r1, #11
+movs r2, #12
+movs r3, #13
+push {r0, r1, r2, r3, r4}
+pop {r0, r1, r2, r3, r4}
+pop {pc}
