@@ -1,7 +1,7 @@
 ## ARM Thumb Simulator
 
-In this project, the Thumb instruction set is simulated. The simulator can be used
-to examine performance  metrics of a given program. Example measurements are given for
+In this project, the Thumb 16 bit instruction set is simulated. The simulator can be used
+to examine performance metrics of a given program. Example measurements are given for
 the Shang benchmark with differnt optimization levels.
 
 ## Instructions Implemented
